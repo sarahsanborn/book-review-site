@@ -1,0 +1,17 @@
+header {
+    border: 1mm;
+    background-color: lavender;
+}
+
+footer {
+    border: 1mm;
+    background-color: rgb(178, 188, 198);
+}
+
+main {
+    background-color: whitesmoke;
+}
+
+body {
+    font: 1em Arial;
+}

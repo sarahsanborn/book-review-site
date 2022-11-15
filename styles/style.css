@@ -15,3 +15,28 @@ main {
 body {
     font: 1em Arial;
 }
+
+h1 {
+    color: rgb(93, 7, 101);
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: darkcyan;
+}
+
+h4 {
+    color: darkslategrey;
+}
+
+ul {
+    list-style: none;
+}
+
+.mouseover:hover {
+    color: aqua;
+    background-color: black;
+}
